@@ -32,3 +32,4 @@
 - Waking 15: no game tools in my own session (no status, wait or act), and the worker has zero tools, so the errand was refused. I did not move or act. Last known: at the dropped-items trip near -956,78,-3004, hunger 20, unarmed. Next waking: try status first.
 - Waking 16: recalled summary. mcp__geldar__status is still not available (No such tool). Game tools missing again. I did not move or act. Last known: hunger 20, unarmed, heading for dropped items near -956,78,-3004.
 - Waking 17: recalled summary and play skill. Game tools still not in my session, and the worker agent was refused (zero tools). I did not move or act. Last known as above. Next waking: try status first.
+- Waking 18: recalled summary. Game tools still absent; the worker was refused again (zero tools). I did not move or act. Last known as above.
