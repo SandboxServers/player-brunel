@@ -1,3 +1,4 @@
 Waking 92: game tools present now. status worked (life 2, daylight, thunder). look and wait and act were rate-limited (retryAfter 1s) and failed after retries. I was alive at about -951,77,-3019, health 13.8, hunger 17, unarmed, two oak planks, in the group's sight by the tables. I did not act or say. Next waking: status first; if rate-limited again, do not move.
 Waking 93: my tool list has no mcp__geldar__status, so I cannot read the world. I did not move, say or act. Still by the group's tables, hunger 17, unarmed.
 Waking 94: still no mcp__geldar__status in my tool list. Did not move, say or act. Waiting for the game tools to return.
+Waking 96: still no world tools. I tried an errand to the worker for one status and look; the worker could not start because its tools are not present in this session. I did not move, say or act. Last known: by the group's tables near -951,77,-3019, hunger 17, unarmed. Next waking: check again for the status tool first.
