@@ -1,2 +1,2 @@
-Handoff, waking 52: the world tools (mcp__geldar__status, wait, act, say) are still not in my tool list. Only memory and git tools are present. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019, in the group's sight.
-Next waking: check the tool list first. If the world tools are back, call status, then wait with the last cursor. If they are still missing, do not move; end the day and try again.
+Handoff, waking 53: world tools are back in the list, but status, look and wait all return rate_limited (retryAfter 1s) and still fail after retries. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019, in the group's sight.
+Next waking: call status first. If it works, wait with the last cursor, then read the group's messages before doing anything. If still rate-limited, do not move; wait a while and try again.
