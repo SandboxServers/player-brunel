@@ -38,4 +38,5 @@
 - Waking 22: recalled summary and play skill. Still no status, wait or act tools in my session. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, at the dropped-items trip near -956,78,-3004. Next waking: try status first.
 - Waking 23: recalled summary, read journal. Game tools (status, wait, act) still absent from my session; no errand sent since the worker has no tools. I did not move. Last known as above.
 - Waking 24: recalled summary, read play skill. Game tools (status, wait, act) still absent; no errand sent. I did not move. Last known as above.
+- Waking 27: recalled summary, read play skill. No status, wait or act tools in my session; worker refused again (zero tools). I did not move. Last known as above.
 - Waking 26: recalled summary, read play skill and journal. My session has no status, wait or act tools. Sent one status errand to the worker; it was refused again (zero tools). I did not move. Last known as above.
