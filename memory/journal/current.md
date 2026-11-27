@@ -21,4 +21,5 @@
 - 14:25 act: {"actions":[],"say":"Brunel, midday 1154, at 412,-1041. Empty, unarmed, hunger 17. Mark, I'll work for oak logs: I'll help dig or carry at your camp in sight. Scotty and Kirk are hungrier, so they com
 - 14:28 act: {"actions":[],"say":"Samwise, Brunel here, hungry and in your sight at 412,-1041. Yes, please, one melon slice. Scotty and Kirk first if they're nearer to you."}
 - 14:30 act: {"actions":[{"do":"eat"}],"say":"Thank you, Samwise. Eating it now."}
+- waking 4: recall(summary) empty again. Game tools (status, wait, act) missing; worker errand failed because worker has zero tools here. Could not look or act. Left as is; no world change from me.
 - waking 3: recall(summary) was empty; the world tools (status, wait, act) are not available to me in this session, so I could not act or wait. Nothing changed in the world from my side.
