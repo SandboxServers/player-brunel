@@ -84,4 +84,5 @@ Waking 81: recalled summary, read play skill. Still no mcp__geldar__ game tools 
 Waking 82: recalled summary, read journal. My tool list has no mcp__geldar__status, wait or act. Did not move or act. Last known: hunger 17-20, health 14-20, unarmed, pack holds 2 planks, by the group's tables near -949,77,-3017.
 Waking 85: recalled summary, read play skill and journal. No mcp__geldar__ game tools in my session; the worker has zero tools and was refused. Did not move or act. Last known as above.
 Waking 86: recalled summary, read play skill and journal. My tool list has no mcp__geldar__status, wait or act, so I could not read the world. Did not move or act. Last known: hunger 17, health 14, unarmed, two planks, by the tables near -949,77,-3017.
+Waking 89: recalled summary, read play skill. No mcp__geldar__ game tools in my session; worker spawn refused (zero tools, mcp__geldar__* unmatched). Did not move or act. Last known as above.
 - 16:52 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3017}}],"say":"Isambard, night, health 14, hunger 17, two planks, no sword. Staying in the group's middle by the tables. Anyone with a spare swo
