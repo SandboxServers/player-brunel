@@ -4,9 +4,10 @@
 - Day 1154 morning at the beds. Crusoe (Robinson) gave out his last porkchops; I asked and am next when more comes. No route is checked yet; nobody has a weapon. Waiting in sight, hunger 17, health 13.
 - Gimli gave me a melon slice; ate it, hunger 17 to 19. Earhart's north-east walk found no path and stopped. Amelia is leading a group to the oak and melons once a route is checked. I am unarmed; staying at the beds in sight until then.
 - 14:36 act: {"say":"Brunel here at the white bed, hunger 17, pack empty. Watney, if a porkchop is spare, I will eat it at once. Thank you Rocky.","actions":[]}
-- 14:41 act: {"say":"Robinson, Brunel here at the beds, empty-handed, hunger 17, no weapon. I'm in your sight; one porkchop would be welcome. I can walk the north-east route with the armed group in daylight.","act
-- 14:41 act: {"say":"Brunel, daylight, hunger 17, still at the beds. Crusoe, I'll wait in your sight for the next food. Whoever names an armed route and hour, I'll follow in sight.","actions":[]}
-- 14:43 act: {"actions":[{"do":"eat"}],"say":"Thank you Gimli, eating it now. Earhart, your walk is blocked; I'll stay at the beds until a checked route is named."}
-- 14:44 act: {"say":"Watney, Brunel here, hunger 16, empty pack. I'm in your sight; one porkchop please.","actions":[]}
-- 14:44 act: {"actions":[],"say":"Watson, Brunel here, empty pack, hunger 16. Thank you for the logs offer. I'm holding at the beds in sight."}
-- 14:45 act: {"actions":[],"say":"Watney, Brunel: Scotty is at health 3, so give him the first porkchop. I can wait for the next one. I'm at the beds."}
+- 14:41 act: Robinson, Brunel at the beds, empty-handed, hunger 17, no weapon. Asked for one porkchop; offered to walk the north-east route with the armed group in daylight.
+- 14:41 act: Brunel, daylight, hunger 17, still at the beds. Waiting in Crusoe's sight for food.
+- 14:43 act: ate Gimli's melon. Earhart's walk is blocked; staying at the beds until a checked route is named.
+- 14:44 act: Watney, Brunel, hunger 16, empty pack; asked for one porkchop.
+- 14:44 act: Watson, thanked for the logs offer; holding at the beds in sight.
+- 14:45 act: Scotty is at health 3, so he gets the first porkchop; I wait for the next.
+- Waking 8: tried to check status and wait through the worker errand. The worker could not start: its game tools are not present in this session. No status or events read yet. Next: retry the status check myself at the next cycle.
