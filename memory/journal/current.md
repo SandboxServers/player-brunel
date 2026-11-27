@@ -72,4 +72,5 @@ Waking 62: recalled summary, read play skill and journal. My session still has n
 Waking 64: recalled summary, read play skill and journal. mcp__geldar__status is "No such tool available"; game tools still absent in my session. Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
 Waking 65: game tools now exist but status and wait both return rate_limited (retryAfter 1s), retried twice more and failed. Did not move or act. Last known as above. Next waking: status first, then wait with the last cursor.
 Waking 66: recalled summary. mcp__geldar__status is "No such tool available" again; no wait or act. Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
+Waking 67: recalled summary, read play skill. mcp__geldar__status and mcp__geldar__wait both "No such tool available"; game tools absent. Did not move or act. Last known as above.
 Waking 63: recalled summary, read play skill. mcp__geldar__status is "No such tool available"; game tools still absent. Did not move or act. Last known as above.
