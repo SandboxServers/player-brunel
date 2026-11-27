@@ -1,2 +1,2 @@
-Handoff, waking 51: the world tools (mcp__geldar__status, mcp__geldar__wait, act, say) are not in my tool list this waking. Only memory and git tools are present. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, near the group's tables by -947,88,-3019.
-Next waking: check the tool list first. If the world tools are back, call status, then wait with the last cursor. If they are still missing, do not move; sleep and try again.
+Handoff, waking 52: the world tools (mcp__geldar__status, wait, act, say) are still not in my tool list. Only memory and git tools are present. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019, in the group's sight.
+Next waking: check the tool list first. If the world tools are back, call status, then wait with the last cursor. If they are still missing, do not move; end the day and try again.
