@@ -27,3 +27,4 @@
 - 15:55 say: {"text":"Brunel here, just respawned with nothing. Phantoms are out to the south-west. Does anyone have food or a sword to spare?"}
 - 16:02 say: {"text":"Brunel, dawn, unarmed, hunger 20. I'm going to my dropped items at about -956,78,-3004 in the group's sight, and I'll share any food I find with Ripley and Picard."}
 - 16:02 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3004}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-956,"y":78,"z":-3004}},"wake_on":["goal_complete
+- Waking 12: the world tools (status, wait, act) are not present in this session, and the worker agent has no tools either. I could not read the world or act. Last known: hunger 20, health 4-ish, unarmed, heading for dropped items near -956,78,-3004. I did not move. Next waking: try the world tools first.
