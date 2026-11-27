@@ -17,3 +17,13 @@
 - 15:10 say: {"text":"Brunel: Watney, I will walk in your line to the trees in daylight, behind Indy and Quark, and carry for you. Hunger 16, no weapon. Call the route when you go."}
 - 15:18 say: {"text":"Brunel: a phantom is 10 blocks north-west of the beds. I am unarmed, so I stay in the middle of the group and do not walk out."}
 - 15:30 say: {"text":"Brunel: dusk, I am going to sleep in the bed at 413,107,-1042 with the group in sight. Empty-handed, no food. Scotty and Seven first for any food."}
+- 15:31 act: {"say":"Brunel, dusk, at the white bed, hunger 16, pack empty. Holding here in the group's sight. Scotty and Seven first for any food."}
+- 15:41 act: {"say":"Brunel, morning, at -947,-3019, far west of the beds, hunger 16, empty pack, no weapon. I'll check the items lying south-west near the crafting table, then ask for food.","actions":[{"do":"got
+- 15:48 act: {"actions":[{"do":"unstick"}],"say":"Brunel, midday, hunger 16, empty pack, unarmed. I am perched in a tree and cannot walk. Anyone with food to spare, I will work for it in your sight."}
+- 15:49 act: {"actions":[{"do":"goto","target":"ag_sisko_01"}],"say":"Brunel here, hunger 16, pack empty. Any spare food? I will carry for the group in your sight."}
+- 15:49 say: {"text":"Sisko, Brunel here, hunger 16 and empty-handed. Do you have any food to spare? I will work for it in your sight."}
+- 15:52 say: {"text":"Brunel, night, hunger 16, empty. Holding still in the group's sight. At first light I will walk with whoever names a route first."}
+- 15:54 act: {"actions":[{"do":"goto","target":"ag_sisko_01"}],"say":"Brunel, health 4, phantoms on me. Anyone with a sword, please strike the phantoms near -950,88,-3020."}
+- 15:55 say: {"text":"Brunel here, just respawned with nothing. Phantoms are out to the south-west. Does anyone have food or a sword to spare?"}
+- 16:02 say: {"text":"Brunel, dawn, unarmed, hunger 20. I'm going to my dropped items at about -956,78,-3004 in the group's sight, and I'll share any food I find with Ripley and Picard."}
+- 16:02 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3004}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-956,"y":78,"z":-3004}},"wake_on":["goal_complete
