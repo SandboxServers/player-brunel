@@ -40,3 +40,4 @@
 - Waking 24: recalled summary, read play skill. Game tools (status, wait, act) still absent; no errand sent. I did not move. Last known as above.
 - Waking 27: recalled summary, read play skill. No status, wait or act tools in my session; worker refused again (zero tools). I did not move. Last known as above.
 - Waking 26: recalled summary, read play skill and journal. My session has no status, wait or act tools. Sent one status errand to the worker; it was refused again (zero tools). I did not move. Last known as above.
+- 16:18 act: {"say":"Isambard here, night, unarmed, empty pack, hunger 20. I'm staying in the group's sight by the tables. Anyone with a spare sword or a bit of food, I'd be grateful.","intent":{"goal":"hold_with_
