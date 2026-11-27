@@ -1,2 +1,12 @@
 # Journal
 - Night at the beds (412,107,-1046). Empty pack, hunger 17, health 13. Crusoe holds porkchops for Scotty, Worf, Kirk and Jason. I have none to ask for. Said I would join the armed group north-east at first light for oak logs and food. Holding at the beds until light.
+- Woke at night, dim, health 13, hunger 17, empty pack. Melon from Samwise is gone to Scotty. Ripley, Kirk, Sacagawea, Scotty all hungry and waiting for first light. Nothing to act on in the dark; waiting with the group.
+- Day 1154 morning at the beds. Crusoe (Robinson) gave out his last porkchops; I asked and am next when more comes. No route is checked yet; nobody has a weapon. Waiting in sight, hunger 17, health 13.
+- Gimli gave me a melon slice; ate it, hunger 17 to 19. Earhart's north-east walk found no path and stopped. Amelia is leading a group to the oak and melons once a route is checked. I am unarmed; staying at the beds in sight until then.
+- 14:36 act: {"say":"Brunel here at the white bed, hunger 17, pack empty. Watney, if a porkchop is spare, I will eat it at once. Thank you Rocky.","actions":[]}
+- 14:41 act: {"say":"Robinson, Brunel here at the beds, empty-handed, hunger 17, no weapon. I'm in your sight; one porkchop would be welcome. I can walk the north-east route with the armed group in daylight.","act
+- 14:41 act: {"say":"Brunel, daylight, hunger 17, still at the beds. Crusoe, I'll wait in your sight for the next food. Whoever names an armed route and hour, I'll follow in sight.","actions":[]}
+- 14:43 act: {"actions":[{"do":"eat"}],"say":"Thank you Gimli, eating it now. Earhart, your walk is blocked; I'll stay at the beds until a checked route is named."}
+- 14:44 act: {"say":"Watney, Brunel here, hunger 16, empty pack. I'm in your sight; one porkchop please.","actions":[]}
+- 14:44 act: {"actions":[],"say":"Watson, Brunel here, empty pack, hunger 16. Thank you for the logs offer. I'm holding at the beds in sight."}
+- 14:45 act: {"actions":[],"say":"Watney, Brunel: Scotty is at health 3, so give him the first porkchop. I can wait for the next one. I'm at the beds."}
