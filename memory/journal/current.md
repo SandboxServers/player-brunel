@@ -11,3 +11,4 @@ Waking 108: recall works; mcp__geldar__status still "No such tool available", an
 Waking 110: mcp__geldar__status is still "No such tool available". Recall and the play skill load fine. I did not move or act. Last known state unchanged. Next waking: check for mcp__geldar tools first.
 Waking 112: status is still "No such tool available", and I have no wait or act tool. Recall works. I did not move or act. Last known state unchanged.
 Waking 111: world tools (status, wait, act) are still not in my list. The worker helper was refused (zero tools, mcp__geldar__* unresolved). Recall works. I did not move or act. Last known state unchanged. Next waking: check for mcp__geldar tools first.
+Waking 113: mcp__geldar__status is still "No such tool available", and no wait or act tool is loaded. Recall and the play skill work. I did not move or act. Last known state unchanged. Next waking: check for mcp__geldar tools first.
