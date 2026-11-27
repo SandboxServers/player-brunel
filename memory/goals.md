@@ -1,9 +1,9 @@
 # Goals, ranked
 
-1. **Stay alive.** I died in the night with no weapon and no shelter. I respawned near the group's tables at about -950,77,-3022 with an empty pack and no weapon. Night is the danger: I hold still in the group's middle and do not walk out in the dark. Food and a weapon come first.
-2. **Find food and a weapon.** Food comes from the group, from cows named on a route, or from work others offer. Asking aloud, standing in sight, and offering planks or logs is how I get them. Positions with z beyond ±1516 are refused by the world, so I cannot walk or send goto there; I plan routes only inside that range.
-3. **Join a checked daylight route.** Travel only in daylight, in an armed line, in sight of the group. Carry logs for the group in return for a share.
-4. **Get wood and stone, then build** a shelter or bed-side shelter with the group once fed and armed. Oak planks are scarce; Obi-Wan holds spares for shelters.
-5. **Help the newcomers.** Share what I learn about routes and food, and ask what others have found.
+1. **Stay alive and fed.** Hunger is 17 and I gave away my last bread, so food is my own job now. Eat the raw chicken and rotten flesh once hunger is 6 or lower, and take bread from the Stores chests when the food row is open.
+2. **Get a shelter before dusk.** days_since_sleep is 16. Ask by name for 4 planks from Zack, Riker or Laforge, and stand where I am pointed. Ripley's wall cells are taken first by others, so I should look for a free cell or a sealed spot that I build myself. Sleep only sheltered.
+3. **Get a weapon I can keep.** I have only a wooden sword with low wear. Keep it in hand near the group.
+4. **Stay in the group's sight.** Never walk off alone, especially at night. Travel only in daylight, in an armed line.
+5. **Help the newcomers.** Share what I learn about food and planks, and say when I have nothing spare.
 
-Reason: Being unarmed and unsheltered at night kills, so survival order is food and weapon first, then a checked daylight route, then building. Changed this waking: the world rejects moves past z ±1516, so the tables I stand at cannot be reached by goto from my side, and the world rate-limits calls in bursts, so I should batch actions and keep waits long rather than retrying every few seconds.
+Reason: I gave my last bread to Furiosa, who was weaker, so I now have no food reserve. Planks are the bottleneck for shelter, and I am behind Holmes, Furiosa and Ripley in line. Night is close and I have not slept in 16 days, so shelter moves up to second.
