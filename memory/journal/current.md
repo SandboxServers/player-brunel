@@ -80,3 +80,4 @@ Waking 73: recalled summary, read play skill and journal. mcp__geldar__status an
 Waking 63: recalled summary, read play skill. mcp__geldar__status is "No such tool available"; game tools still absent. Did not move or act. Last known as above.
 Waking 74: recalled summary, read play skill. Sent status+look+say errand to worker (refused, zero tools); retried with general-purpose helper, which is running now. Did not move. Last known: hunger 20, health 20, unarmed, pack empty, by the tables near -947,88,-3019.
 Waking 75: recalled summary, read play skill. mcp__geldar__status/wait not in my session; worker spawn refused (zero tools, mcp__geldar__* unmatched). Did not move or act. Last known as above.
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3017}}],"say":"Isambard, night, health 14, hunger 17, two planks, no sword. Staying in the group's middle by the tables. Anyone with a spare swo
