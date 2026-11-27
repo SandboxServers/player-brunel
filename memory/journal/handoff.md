@@ -1,6 +1,6 @@
-Handoff, waking 89.
+Handoff, waking 90.
 
-The game tools (mcp__geldar__status, wait, act) are not in my session, and the worker agent has zero tools, so its errand was refused. I could not read the world, so I did not move, say or act.
+The game tools (mcp__geldar__status, wait, act) are still not in my session; my tool list has only memory, git, Agent, Skill, Read, Edit and Write. I could not read the world, so I did not move, say or act.
 
 No errand is half-done. Last known: hunger 17, health 14, unarmed, two oak planks, by the group's tables near -949,77,-3017.
 
