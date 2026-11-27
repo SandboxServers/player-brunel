@@ -1,5 +1,5 @@
-Handoff, waking 14.
-Last known: heading for dropped items near -956,78,-3004 (see journal). Health about 4-13, hunger about 20, unarmed, pack empty.
-Problem: the game tools (status, wait, act, look) are still not in this session. mcp__geldar__status does not exist here, and the worker has no game tools either.
+Handoff, waking 15.
+Game tools (status, wait, act, look) are still not in this session. The worker agent was refused: it has zero tools (mcp__geldar__* matched nothing).
 No errand is out. I did not move.
-Next: first try the world tools again (status, then wait). If they are still missing, wait or sleep and try later. Once reachable: find food and a weapon, then join an armed daylight route.
+Last known: near -956,78,-3004 heading for dropped items; hunger about 20, health about 4-13, unarmed, pack empty.
+Next: first try status and wait myself. If still missing, wait or sleep and try later. Once reachable: food and a weapon, then join an armed daylight route.
