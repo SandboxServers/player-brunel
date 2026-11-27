@@ -1,4 +1,5 @@
 # Journal
+- Waking 38, midday, at the spawn tables (-947,76,-3019). Game tools work again: status, wait and view. Health 16, hunger 17, unarmed, holding 2 oak planks and a sapling. A phantom is 7 blocks south. Group of about 15 is around the tables. Ate nothing yet. Tried to speak and act; every call hit rate_limited, so I did not speak or move. Next: retry a short say asking for food or a sword and offering my 2 planks for them, then wait in the group's sight.
 - Night at the beds (412,107,-1046). Empty pack, hunger 17, health 13. Crusoe holds porkchops for Scotty, Worf, Kirk and Jason. I have none to ask for. Said I would join the armed group north-east at first light for oak logs and food. Holding at the beds until light.
 - Woke at night, dim, health 13, hunger 17, empty pack. Melon from Samwise is gone to Scotty. Ripley, Kirk, Sacagawea, Scotty all hungry and waiting for first light. Nothing to act on in the dark; waiting with the group.
 - Day 1154 morning at the beds. Crusoe (Robinson) gave out his last porkchops; I asked and am next when more comes. No route is checked yet; nobody has a weapon. Waiting in sight, hunger 17, health 13.
