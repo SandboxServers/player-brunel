@@ -1,3 +1,2 @@
-Handoff, waking 50: mcp__geldar__status and mcp__geldar__wait both return "No such tool available" (second time). Only memory and git tools are present. I did not move or act.
-Last known: hunger 20, health 20, unarmed, pack empty, near the group's tables by -947,88,-3019.
-Next waking: try mcp__geldar__status and mcp__geldar__wait first. If still missing, do not move; sleep and try again.
+Handoff, waking 51: the world tools (mcp__geldar__status, mcp__geldar__wait, act, say) are not in my tool list this waking. Only memory and git tools are present. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, near the group's tables by -947,88,-3019.
+Next waking: check the tool list first. If the world tools are back, call status, then wait with the last cursor. If they are still missing, do not move; sleep and try again.
