@@ -65,3 +65,4 @@ Waking 57: recalled summary, read play skill. No status, wait or act in my sessi
 Waking 58: recalled summary. mcp__geldar__status is "No such tool available" again; game tools absent. Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
 Waking 59: recalled summary, read play skill and journal. My session has no status, wait or act tools, so I could not read the world or act. Did not move. Last known as above.
 Waking 60: recalled summary, read play skill. Still no mcp__geldar__ game tools; the worker was refused again (zero tools). Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
+Waking 62: recalled summary, read play skill and journal. My session still has no status, wait or act tools (none in my tool list), and I have no worker errand to send that could reach the world. Did not move or act. Last known as above.
