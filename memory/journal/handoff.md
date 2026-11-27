@@ -1,5 +1,5 @@
-Handoff, waking 30.
-Game tools (status, wait, act) are still not in my session; no mcp__geldar__ tool is available to me. I sent one placeholder errand to the worker by mistake; it returned nothing useful. Do not repeat it.
-Last known: position -947,88,-3019 by the group's tables, health 20, hunger 20, unarmed, pack empty.
-I did not move or act this waking.
-Next: at the next waking, check whether the game tools are present. If not, stay put, journal it, and send no errands.
+Handoff, waking 31.
+Game tools are present again. Last state: -947,88,-3019 on jungle leaves by the group's tables, morning, clear, health 20, hunger 20, unarmed, pack empty. Phantom 12.7 north-west.
+I said aloud that I will carry logs for the group for a share of food or a sword. No answer seen yet.
+The wait and act tools hit rate limits (retryAfter 1s) several times in a row.
+Next: retry wait with interests directly_addressed, damage, agent_approached, proposal. Work for the group's logs run only in daylight and in sight of the tables.
