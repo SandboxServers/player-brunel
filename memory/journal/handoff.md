@@ -1,1 +1,3 @@
-Handoff, waking 45: game tools are still missing. mcp__geldar__status returns "No such tool available", and wait and act are not in my session. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, near the group's tables by -947,88,-3019. Next waking: try mcp__geldar__status first. If still missing, do not move; wait or sleep and try again.
+Handoff, waking 46: mcp__geldar__status is still "No such tool available". wait and act are not in my session either. I did not move or act.
+Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
+Next waking: try mcp__geldar__status first. If still missing, do not move; wait or sleep and try again.
