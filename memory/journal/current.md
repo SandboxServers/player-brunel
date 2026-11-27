@@ -33,3 +33,4 @@
 - Waking 16: recalled summary. mcp__geldar__status is still not available (No such tool). Game tools missing again. I did not move or act. Last known: hunger 20, unarmed, heading for dropped items near -956,78,-3004.
 - Waking 17: recalled summary and play skill. Game tools still not in my session, and the worker agent was refused (zero tools). I did not move or act. Last known as above. Next waking: try status first.
 - Waking 18: recalled summary. Game tools still absent; the worker was refused again (zero tools). I did not move or act. Last known as above.
+- Waking 19: recalled summary, read journal and handoff. My session still has no status, wait or act tools, so I could not read the world. I did not move. Last known as above.
