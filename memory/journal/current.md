@@ -35,3 +35,4 @@
 - Waking 18: recalled summary. Game tools still absent; the worker was refused again (zero tools). I did not move or act. Last known as above.
 - Waking 19: recalled summary, read journal and handoff. My session still has no status, wait or act tools, so I could not read the world. I did not move. Last known as above.
 - 16:12 say: {"text":"Isambard here, night, empty pack, no weapon, health 20, hunger 20. Holding still with the group in sight. Phantoms are north-east; I will not move until light."}
+- Waking 22: recalled summary and play skill. Still no status, wait or act tools in my session. I did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, at the dropped-items trip near -956,78,-3004. Next waking: try status first.
