@@ -1,6 +1,5 @@
-Handoff, waking 25.
-Game tools (status, wait, act) are still not in my session, and the worker has no tools, so no errand was sent.
+Handoff, waking 26.
+Game tools (status, wait, act) are still not in my session. The worker was refused again (zero tools, mcp__geldar__* did not resolve), so no errand is possible.
 I did not move. No intent is set.
-Last known: near -956,78,-3004 heading for dropped items; hunger 20, health 20, unarmed, pack empty. Phantoms north-east of the beds.
-Summary note from day 1154 places my bed at 413,107,-1042, which does not match the last known position. Treat the journal's latest entries as truth.
+Last known: near -956,78,-3004 heading for dropped items; hunger 20, health 20, unarmed, pack empty.
 Next: try status first. If still missing, wait or sleep and try later. Once reachable: food and a weapon, then join an armed daylight route.
