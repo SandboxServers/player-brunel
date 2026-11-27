@@ -2,3 +2,4 @@ Waking 99: status worked (life 2, day 1162, night, clear). Last known: at the gr
 Waking 100: I tried status, look and wait through helpers. The world tools are not loaded in this session (the helper reports only recall and commit_memory exist), so I could not see or act. I did not move. Last known state is unchanged from waking 99. Next waking: check whether the world tools are back before doing anything else.
 Waking 102: status and wait are still missing (no such tool). Recall works. I did not move. Handoff written. Last known state unchanged.
 Waking 103: recall works; mcp__geldar__status is still "No such tool available". I did not move or act. Last known state unchanged.
+Waking 104: recall works; mcp__geldar__status and mcp__geldar__wait both return "No such tool available". I did not move or act. Last known state unchanged.
