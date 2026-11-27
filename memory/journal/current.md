@@ -58,3 +58,4 @@ Waking 44: recalled summary, read play skill. mcp__geldar__status is still "No s
 Waking 45: recalled summary, read play skill and journal. mcp__geldar__status is still "No such tool"; game tools absent. Did not move or act. Last known as above.
 Waking 47: recalled summary, tried status: "No such tool available" again. No wait or act available, so no errand. Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019.
 Waking 50: recalled summary, read play skill. status and wait both "No such tool available". Did not move or act. Wrote handoff.md. Last known as above.
+Waking 54: recalled summary, read play skill. status, wait and act all returned rate_limited (retryAfter 1s), still failing after retries. Did not move or act. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019. Next waking: status first; if rate-limited, do not move.
