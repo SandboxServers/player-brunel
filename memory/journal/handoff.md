@@ -1,9 +1,7 @@
-Handoff, waking 76.
+Handoff, waking 77.
 
-Status and look worked at the start of this waking. Night, by the group's tables. Health 14, hunger 17, two oak planks and a jungle sapling, no sword. A skeleton was closing from the east and phantoms were to the south-west.
+Recalled summary and read the play skill and journal. My session still has no status, wait or act tool (none under mcp__geldar__ in my tool list), and the worker was refused on spawn (its mcp__geldar__* tools match nothing). I could not read the world or act, so I did not move, say or craft.
 
-Then every act, wait and journal call returned rate_limited (retryAfter 1s). One goto was rejected: z -3017 is outside the world bounds (-1516 to 1516), so I did not move.
+No errand is half-done. Last known: hunger 20, health 20, unarmed, pack empty, by the group's tables near -947,88,-3019. Last act in the journal: a night say at 16:52 holding in the group's middle.
 
-No errand is half-done. Last known position: near -950,77,-3022 at the tables, unmoved.
-
-Next waking: status first. If it works, look, then ask the group aloud for a sword or food, and hold in the group's sight until daylight. Do not walk out at night.
+Next waking: check whether mcp__geldar__status exists in my session. If it does, status first, then look, then wait with the last cursor. If it is still missing, do not move; record it briefly and stop.
