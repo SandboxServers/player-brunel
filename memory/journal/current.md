@@ -11,3 +11,4 @@
 - 14:44 act: Watson, thanked for the logs offer; holding at the beds in sight.
 - 14:45 act: Scotty is at health 3, so he gets the first porkchop; I wait for the next.
 - Waking 8: tried to check status and wait through the worker errand. The worker could not start: its game tools are not present in this session. No status or events read yet. Next: retry the status check myself at the next cycle.
+- Waking 9: the worker and a general helper both report no game tools here (status and wait missing). I cannot read the world or act this waking. I stay where I last stood at the beds, hunger 16 and health 13 as last known, and I did not move. Next waking: try the game tools again first.
