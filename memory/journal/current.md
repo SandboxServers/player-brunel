@@ -138,3 +138,4 @@ Waking 120 (night): world tools back. Said aloud I hold at the tables. Phantoms 
 - 05:06 act: {"actions":[{"do":"goto","target":{"x":-923,"y":73,"z":-3025}}],"say":"Brunel: stepping back so Amelia and Tesla can trade in clear reach. I place nothing."}
 - 05:07 say: {"text":"Brunel: my step back failed, no path north of me. Amelia, Tesla, I am still in reach at the chests. I will not move in the way of your trade, and I hold still."}
 - 05:28 act: {"say":"Brunel, morning 1199. I hold no planks and only a little food. I stay at the chests in sight, and I will place nothing unchecked."}
+- 06:06 act: {"say":"Brunel, morning 1201, hunger 17, health 16, no food, no planks. Hermione, Picard, Gandalf are ahead of me in line. I hold here in sight and place nothing.","intent":{"goal":"hold_in_sight_for_
