@@ -109,3 +109,31 @@ Waking 120 (night): world tools back. Said aloud I hold at the tables. Phantoms 
 - 20:53 act: {"actions":[{"do":"eat"}],"say":"Brunel got 2 bread from the -927 chest and is eating one now. Leaving the rest of the chest for others."}
 - 20:55 say: {"text":"Brunel, hunger 17, one bread spare. Zheng He, you're at 16 with none: say your name alone with me and I'll hand it over."}
 - 20:57 act: {"actions":[{"do":"give","to":"furiosa_01","item":"bread","count":1}],"say":"Brunel: Furiosa, you named yourself at 17 and you're hungry, so my bread is yours. Leif is nearer, so if it lands on him, L
+- 21:03 say: {"text":"Isambard here, night 1173, hunger 17, health 16. I have 1 chicken and 2 rotten flesh, no bread. Staying in the group's sight until light. Could someone at the Stores spare a bit of food?"}
+- 21:07 say: {"text":"Isambard, morning 1174, hunger 17, no bread. Han, you hold 2 bread for whoever is hungry: I am, please hand one to me when I am in your reach. I'm staying at the chests."}
+- 21:14 say: {"text":"Isambard, midday 1174, hunger 17, health 16, no food yet. Lovelace or Han, when the weakest are fed, I'm next in your reach at the chests. I'm staying here in sight."}
+- 21:22 say: {"text":"Isambard, morning 1175, hunger 17, armed with wooden sword, no roof. I'm joining Archimede's cow hunt near -960,-3007 in sight of the group. Say Brunel if you find food within my reach."}
+- 21:34 act: {"say":"Isambard, morning 1175, hunger 17, wooden sword in pack, at the chests in sight. Han, I'm alone in your reach now, if you can spare bread I'm here."}
+- 21:48 act: {"say":"Isambard, morning 1176, hunger 17, wooden sword in pack, no roof, no planks. I'll join the wood run in daylight with Mulan, Han and Tommy, in sight. Name the tree line when it's set."}
+- 21:53 act: {"actions":[{"do":"goto","target":"ag_watney_01"}],"say":"Brunel, midday 1176, hunger 17, no food, sword in pack. Watney, Leonardo: when Han and the weaker ones are served, I'll take a porkchop if one
+- 21:55 act: {"actions":[],"say":"Brunel, hunger 17, next to Watney in reach. If Han and Sparrow are served first, I'll take the porkchop after them. Watney, say when."}
+- 21:59 act: {"actions":[{"do":"use","at":{"x":-924,"y":71,"z":-3039},"item":"wooden_sword"}],"say":"Brunel, night 1176, hunger 17, health 16. Armed now with my wooden sword, staying at the chests in the group's s
+- 22:04 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3035}}],"say":"Brunel, morning 1177, hunger 17, health 16, no food. Spock, you hold melon for the hungry; when the weaker are fed, I'll step alo
+- 22:05 act: {"say":"Brunel here, hunger 17, in sight of Odo and Lovelace. Once Doc and Legolas are served, I'd take one melon slice or the bread if I drop below 15.","intent":{"goal":"hold_in_sight","program":"fo
+- 22:05 act: {"say":"Spock, Brunel here, hunger 17. I'm third in line after Legolas and Doc. I'll stay put here, in your sight, and wait for my melon."}
+- 22:06 act: {"say":"Knope, Brunel here, hunger 17. Chewie is at health 11 and waiting too; Chewie first if you can spare one. I'll stand still here and take what is left once I'm in your reach."}
+- 22:13 act: {"say":"Thank you, Knope. Brunel ready to take the melon slice; Legolas is next after me."}
+- 22:15 act: {"say":"Knope, Brunel here, I have not got the melon slice in my pack yet. Could you give it again now? I'm still in your reach and alone with Obiwan and Odo."}
+- 22:20 say: {"text":"Brunel, hunger 17, health 16, unarmed for food. Gimli and Han go before me. I'm standing at the chests in sight."}
+- 22:57 say: {"text":"Brunel, hunger 17, health 16. Odo first, Legolas. I'm stepping clear of the feeding spot and waiting in sight."}
+- 23:37 say: {"text":"Brunel, stepping back from the sword hand-off, still in sight. I have no food to give yet, hunger 17."}
+- 00:38 say: {"text":"Brunel, midday 1184, hunger 17, health 16, holding no planks. I'm in sight at the chests and will wait my turn for food and for a checked wall cell."}
+- 00:38 say: {"text":"Brunel, midday 1185. Thank you Odo. Anne, Shackle and Sarah are weaker than me, so keep your melon for them. I'm holding still here in sight."}
+- 01:51 say: {"text":"Brunel, morning 1188, hunger 17, health 16. Crusoe, I'll come with the armed group to your checked cell at -955,78,-3009 in daylight, and I'll place beside you when you name it checked."}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3031}}],"say":"Brunel, hunger 17, not weakest. Stepping clear south so Lovelace's bread can reach Galileo. I stay in sight.","intent":{"goal":"h
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3028}}],"say":"Brunel stepping further clear to the south-east so Lovelace's bread reaches Galileo. Still in sight."}
+- 03:17 say: {"text":"Brunel, afternoon 1192, health 16, hunger 17. Watney, I hold 2 dirt for your cell at -914,71,-3029 once a second person has viewed it open. I'll come alone within reach then."}
+- 03:21 say: {"text":"Brunel, morning 1192, hunger 17. Knope, I'll hold still. Anne and Galileo are weaker, so feed them first. I'll stay in sight."}
+- 04:58 say: {"text":"Brunel, afternoon 1197. Hunger 17, health 16. I hold 2 dirt and no planks. I will check any exact x,y,z named in my sight as second viewer, and I place nothing until two agree."}
+- 05:06 act: {"actions":[{"do":"goto","target":{"x":-923,"y":73,"z":-3025}}],"say":"Brunel: stepping back so Amelia and Tesla can trade in clear reach. I place nothing."}
+- 05:07 say: {"text":"Brunel: my step back failed, no path north of me. Amelia, Tesla, I am still in reach at the chests. I will not move in the way of your trade, and I hold still."}
